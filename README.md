@@ -1,6 +1,6 @@
 # Sebastian Velandia
 
-Electronics engineer in Bogotá. The project that matters right now is **[Exosphere](https://github.com/sebastianvelace/Exosphere)**, a space-mission simulator in Godot 4.6 and C#. You fly a launch vehicle from the pad through ascent, orbit, and reentry, in a double-precision model of the solar system.
+Electronics engineer in Bogotá. The project that matters right now is **[Exosphere](https://github.com/sebastianvelace/Exosphere)**, a space-mission simulator in Godot 4.6 and C#. You fly the starship vehicle from the pad through ascent, orbit, and reentry, in a double-precision model of the solar system.
 
 <p>
   <a href="https://github.com/sebastianvelace/Exosphere"><img src="assets/liftoff-1.png" width="49%" alt="Starship lifting off the pad in Exosphere"></a>
